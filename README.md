@@ -17,5 +17,4 @@ To use the generated design you will need an Opentrons with a P10. Additionally,
   Calibrate the pipette that it nearly touches the agar
   Press run and enjoy the show...
   
- 
-  
+![image](https://user-images.githubusercontent.com/13136496/233966003-2d9a5aa3-28e9-4d44-9e38-ddb33ba4d9ae.png)
