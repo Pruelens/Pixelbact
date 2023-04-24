@@ -16,5 +16,9 @@ To use the generated design you will need an Opentrons with a P10. Additionally,
   Position a square petridish in the middle of position 5 of the OT deck.
   Calibrate the pipette that it nearly touches the agar
   Press run and enjoy the show...
-  
-![image](https://user-images.githubusercontent.com/13136496/233966003-2d9a5aa3-28e9-4d44-9e38-ddb33ba4d9ae.png)
+
+<p align="center">
+
+  <img src="https://user-images.githubusercontent.com/13136496/233967796-28c6eb54-7cc2-4687-b8ef-652ca340d17a.png" width="480">
+
+</p>
